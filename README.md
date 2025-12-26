@@ -70,13 +70,14 @@ python main.py
 
 ## ⌨️ Keyboard Shortcuts
 
-|Key|Action|
-|Space|Flip card|
-|→|Don't know|
-|←|Know|
-|U|Undo|
-|R|Reset|
-|Esc|Exit|
+| Key | Action |
+| :-------- | ---------: |
+| Space | Flip card |
+| → | Don't know |
+| ← | Know |
+| U | Undo |
+| R | Reset |
+| Esc | Exit |
 
 ## 🧑‍💻 Author
 
