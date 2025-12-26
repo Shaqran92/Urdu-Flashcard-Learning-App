@@ -81,6 +81,6 @@ python main.py
 
 ## 🧑‍💻 Author
 
-###Shaqran Hussain
+### Shaqran Hussain
 Python Developer | GUI Apps | Learning Projects
 🔗 GitHub: https://github.com/Shaqran92/Urdu-Flashcard-Learning-App
