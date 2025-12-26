@@ -83,4 +83,5 @@ python main.py
 
 ### Shaqran Hussain
 Python Developer | GUI Apps | Learning Projects
+
 🔗 GitHub: https://github.com/Shaqran92/Urdu-Flashcard-Learning-App
