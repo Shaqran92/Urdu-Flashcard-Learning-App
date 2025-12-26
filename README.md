@@ -68,7 +68,7 @@ pip install pandas
 python main.py
 ```
 
-##⌨️ Keyboard Shortcuts
+## ⌨️ Keyboard Shortcuts
 
 |Key|Action|
 |Space|Flip card|
@@ -78,7 +78,7 @@ python main.py
 |R|Reset|
 |Esc|Exit|
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
 ###Shaqran Hussain
 Python Developer | GUI Apps | Learning Projects
